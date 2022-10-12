@@ -1,1 +1,2 @@
 # Game_of_visit
+À travers ce projet, nous souhaitons offrir un jeu immersif aux formateurs qui leur permettront de voir l'évolution que leur a apportée la formation. Ce jeu se fera principalement avant de commencer la formation et une fois qu’elle sera finie. Le jeu évoluera sous forme de palier, plus on évolue plus on a accès à des quizz d’autres formations.
