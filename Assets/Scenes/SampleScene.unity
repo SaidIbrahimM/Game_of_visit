@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 228777511}
   - component: {fileID: 228777510}
   m_Layer: 0
-  m_Name: RespL
+  m_Name: vrai
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1117,7 +1117,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7709028cbceb7f40b82e379e15f0753, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  answer: 
 --- !u!114 &1644596017
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1312,7 +1311,7 @@ GameObject:
   - component: {fileID: 1764120137}
   - component: {fileID: 1764120136}
   m_Layer: 0
-  m_Name: RespR
+  m_Name: faux
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
