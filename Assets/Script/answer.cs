@@ -12,12 +12,12 @@ public class answer : MonoBehaviour
         if(GameObject.Find("Canvas").GetComponent<quiz>().answer == transform.GetChild(0).GetComponent<TextMesh>().text)
         {
             Debug.Log("Win !");
-            Ans.text = "Win !";
+            Ans.text = "Bonne réponse !";
         }
         else
         {
             Debug.Log("Lose !");
-            Ans.text = "Lose !";
+            Ans.text = "Mauvaise réponse !";
         }
     }
 
